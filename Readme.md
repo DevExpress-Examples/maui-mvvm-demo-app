@@ -23,17 +23,17 @@ Watch the following YouTube video to get started with DevExpress .NET MAUI contr
 
 This repository demonstrates the following basic features available in the **DevExpress MAUI MVVM Library**: 
  
-* [Dispatcher](./CS/Modules/DispatcherDemo/DispatcherDemoViewModel.cs/)
-* [Navigation Service](./CS/Modules/NavigationServiceDemo/NavigationServiceDemoViewModel.cs/)
-* [Popup Service](./CS/Modules/PopupService/PopupServiceDemoViewModel.cs/)
-* [Validation](./CS/Modules/PopupService/LoginPopupViewModel.cs/)
-* [Localization Service](./CS/Modules/LocalizationDemo/LocalizationDemoViewModel.cs/)
-* [Print Service](./CS/Modules/PrintServiceDemo/PrintServiceDemoViewModel.cs/)
-* [Save File Picker](./CS/Modules/SaveFilePickerDemo/SaveFilePickerDemoViewModel.cs/)
-* [File Picker](./CS/Modules/FilePickerDemo/FilePickerDemoViewModel.cs/)
-* [File System](./CS/Modules/FileSystemDemo/FileSystemDemoViewModel.cs/)
-* [UI Service](./CS/Modules/UIServiceDemo/UIServiceDemoViewModel.cs/)
-* [Dependency Injections](./CS/Modules/HomeModule/HomePage.xaml#L9) 
+* [Dispatcher](./CS/Modules/DispatcherDemo/DispatcherDemoViewModel.cs)
+* [Navigation Service](./CS/Modules/NavigationServiceDemo/NavigationServiceDemoViewModel.cs)
+* [Popup Service](./CS/Modules/PopupService/PopupServiceDemoViewModel.cs)
+* [Validation](./CS/Modules/PopupService/LoginPopupViewModel.cs)
+* [Localization Service](./CS/Modules/LocalizationDemo/LocalizationDemoViewModel.cs)
+* [Print Service](./CS/Modules/PrintServiceDemo/PrintServiceDemoViewModel.cs)
+* [Save File Picker](./CS/Modules/SaveFilePickerDemo/SaveFilePickerDemoViewModel.cs)
+* [File Picker](./CS/Modules/FilePickerDemo/FilePickerDemoViewModel.cs)
+* [File System](./CS/Modules/FileSystemDemo/FileSystemDemoViewModel.cs)
+* [UI Service](./CS/Modules/UIServiceDemo/UIServiceDemoViewModel.cs)
+* [Dependency Injections](./CS/Modules/HomeModule/HomePage.xaml) 
 
 ## Documentation
 
